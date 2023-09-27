@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_ASPNetConnectedMode", "Lab1_ASPNetConnectedMode\Lab1_ASPNetConnectedMode.csproj", "{4CE0F945-4DFA-477F-8935-A3522D282C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE0F945-4DFA-477F-8935-A3522D282C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE0F945-4DFA-477F-8935-A3522D282C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE0F945-4DFA-477F-8935-A3522D282C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE0F945-4DFA-477F-8935-A3522D282C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFCFEDFF-D387-4717-91A6-2C8DDF260318}
+	EndGlobalSection
+EndGlobal
